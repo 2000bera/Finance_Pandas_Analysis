@@ -19,30 +19,19 @@
 
 # 2. Solve Statement
 
-* Solving delay in payments, improving smooth workflow
+* 
 
 # 3. Data Cleaning Process
 
-* For dataset I used same data on this repo: https://github.com/2000bera/Data_Cleaning_Excel, which i cleaned the dataset from excel and upload the dataset on the data warehouse using databricks, connected my workspace on databricks to Power BI so that I don't need to upload data manually on Power BI
+* 
   
 ### Steps for connection
 
-* Get Data
-* Look for databricks
-* Get Server hostname, HTTP Path, and Token
-* All dataset will appear on Power BI
 
 # 4. Analyze Insights
 
 ## - Perform this using SQL databricks warehouse
 
-<img width="946" height="359" alt="image" src="https://github.com/user-attachments/assets/f6c22cfa-9f0e-4cdf-a64a-35da21643a21" />
-
---
-
-<img width="547" height="519" alt="image" src="https://github.com/user-attachments/assets/c49ab2c5-e25a-40a8-ad80-90cfe3a2cd4c" />
-
---
 
 # 5. financial dashboard report
 
