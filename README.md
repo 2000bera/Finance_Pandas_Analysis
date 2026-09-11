@@ -30,8 +30,6 @@
 
 # 4. Analyze Insights
 
-## - Perform this using SQL databricks warehouse
-
 
 # 5. financial dashboard report
 
