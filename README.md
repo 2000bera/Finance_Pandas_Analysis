@@ -20,23 +20,23 @@
 
 * Python (Pandas)
 * GitHub
-* Google Colab Notebook
+* Snowflake
 
-# 2. Solve Statement
+# 3. Solve Statement
 
 * 
 
-# 3. Data Cleaning Process
+# 4. Data Cleaning Process
 
 * 
   
 ### Steps for connection
 
 
-# 4. Analyze Insights
+# 5. Analyze Insights
 
 
-# 5. financial dashboard report
+# 6. financial dashboard report
 
 
-# 6. Recommendation
+# 7. Recommendation
