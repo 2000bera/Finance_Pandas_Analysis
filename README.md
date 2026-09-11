@@ -4,6 +4,7 @@
 
 # Table Content
 
+* Data Review
 * Tools Used
 * Solve Statement
 * Data Cleaning Process
@@ -11,7 +12,11 @@
 * Dashboard/Report
 * Recommendation
 
-# 1. Tools Used
+# 1. Data Review
+
+<img width="307" height="359" alt="image" src="https://github.com/user-attachments/assets/0aff7487-feb2-418d-a5e6-127850e5c56a" />
+
+# 2. Tools Used
 
 * Python (Pandas)
 * GitHub
