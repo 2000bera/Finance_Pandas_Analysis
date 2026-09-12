@@ -22,7 +22,7 @@
 
 * Python (Pandas)
 * GitHub
-* Snowflake
+* Snowflake (data warehouse)
 
 # 3. Solve Statement
 
