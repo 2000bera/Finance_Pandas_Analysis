@@ -7,7 +7,6 @@
 * Data Review
 * Tools Used
 * Solve Statement
-* Data Cleaning Process
 * Analyze Insights
 * Dashboard/Report
 * Recommendation
@@ -29,17 +28,10 @@
 
 * 
 
-# 4. Data Cleaning Process
-
-* 
-  
-### Steps for connection
+# 4. Analyze Insights
 
 
-# 5. Analyze Insights
+# 5. financial dashboard report
 
 
-# 6. financial dashboard report
-
-
-# 7. Recommendation
+# 6. Recommendation
