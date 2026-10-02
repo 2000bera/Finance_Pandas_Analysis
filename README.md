@@ -1,6 +1,6 @@
 # Finance_Pandas_Analysis
 
-* 
+* Analyzing sales data using Python(Pandas)
 
 # Table Content
 
@@ -22,7 +22,7 @@
 
 * Python (Pandas)
 * GitHub
-* Snowflake (data warehouse)
+* VS Code (GitHub - Codespace)
 
 # 3. Solve Statement
 
