@@ -23,6 +23,7 @@
 * Python (Pandas)
 * GitHub
 * VS Code (GitHub - Codespace)
+* Jupyter Notebook
 
 # 3. Solve Statement
 
