@@ -29,4 +29,9 @@
 
 # 4. Analyze Insights
 
+<img width="1255" height="216" alt="image" src="https://github.com/user-attachments/assets/097363e9-74d3-4ee0-a588-0d55ae4d8422" />
+
+<img width="1255" height="216" alt="image" src="https://github.com/user-attachments/assets/8a874bf8-2b55-4a56-a902-a54d9c0d3144" />
+
+
 # 5. Recommendation
