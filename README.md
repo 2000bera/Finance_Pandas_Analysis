@@ -8,7 +8,6 @@
 * Tools Used
 * Solve Statement
 * Analyze Insights
-* Dashboard/Report
 * Recommendation
 
 # 1. Data Review
@@ -31,8 +30,4 @@
 
 # 4. Analyze Insights
 
-
-# 5. financial dashboard report
-
-
-# 6. Recommendation
+# 5. Recommendation
