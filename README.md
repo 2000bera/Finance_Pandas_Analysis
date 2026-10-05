@@ -26,7 +26,6 @@
 
 # 3. Solve Statement
 
-* 
 
 # 4. Analyze Insights
 
