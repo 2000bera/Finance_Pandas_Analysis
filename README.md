@@ -31,3 +31,5 @@
 
 
 # 4. Recommendation
+
+- The business should give customers special offers, discounts, and rewards to encourage them to buy more often. Occasional customers should be encouraged to come back and buy again, while Premium and Regular customers can receive special deals to increase their spending.
